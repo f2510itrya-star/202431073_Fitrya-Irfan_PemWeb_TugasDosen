@@ -49,7 +49,7 @@ Website ini terdiri dari **2 halaman utama** yang saling terhubung melalui navig
 | Halaman | Nama File | Deskripsi |
 |----------|------------|-----------|
 | 🏠 Home / Beranda | `index.html` | Menampilkan profil singkat Fitrya Irfan |
-| 💼 Portofolio | `portfolio.html` | Berisi daftar proyek dalam bentuk tabel |
+| 💼 Portofolio | `portofolio.html` | Berisi daftar proyek dalam bentuk tabel |
 | 📬 Kontak | `contact.html` | Form permintaan proyek yang interaktif dan responsif |
 
 Navigasi dibuat menggunakan struktur:
@@ -57,4 +57,5 @@ Navigasi dibuat menggunakan struktur:
 <nav class="navbar">
   <h1 class="logo">Fitrya Irfan</h1>
   <ul class="nav-links">
+
     <li><a href="index.html">Home</a></
